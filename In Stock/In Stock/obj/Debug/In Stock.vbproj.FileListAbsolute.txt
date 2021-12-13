@@ -1,0 +1,14 @@
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In Stock.vbprojAssemblyReference.cache
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In_Stock.Resources.resources
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In Stock.vbproj.GenerateResource.cache
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In Stock.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\bin\Debug\In Stock.exe.config
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\bin\Debug\In Stock.exe
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\bin\Debug\In Stock.pdb
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\bin\Debug\In Stock.xml
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In Stock.exe
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In Stock.xml
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In Stock.pdb
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In_Stock.Stock.resources
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In_Stock.Grade.resources
+C:\Users\Richard Owen H\source\repos\In Stock\In Stock\obj\Debug\In_Stock.Bank_Loan.resources
