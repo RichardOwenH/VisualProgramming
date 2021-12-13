@@ -1,0 +1,12 @@
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll Accounting System.vbprojAssemblyReference.cache
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll_Accounting_System.Form1.resources
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll_Accounting_System.Resources.resources
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll Accounting System.vbproj.GenerateResource.cache
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll Accounting System.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\Payroll Accounting System.exe.config
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\Payroll Accounting System.exe
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\Payroll Accounting System.pdb
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\Payroll Accounting System.xml
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll Accounting System.exe
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll Accounting System.xml
+C:\Users\Richard Owen H\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\Payroll Accounting System.pdb
