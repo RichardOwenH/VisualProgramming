@@ -1,0 +1,12 @@
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\bin\Debug\MiniDiaryApplication.exe.config
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\bin\Debug\MiniDiaryApplication.exe
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\bin\Debug\MiniDiaryApplication.pdb
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\bin\Debug\MiniDiaryApplication.xml
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.vbprojAssemblyReference.cache
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.formMain.resources
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.Resources.resources
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.vbproj.GenerateResource.cache
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.exe
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.xml
+C:\Users\Richard Owen H\source\repos\MiniDiaryApplication\MiniDiaryApplication\obj\Debug\MiniDiaryApplication.pdb
