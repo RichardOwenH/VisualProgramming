@@ -1,0 +1,12 @@
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.vbprojAssemblyReference.cache
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.Form1.resources
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.Resources.resources
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.vbproj.GenerateResource.cache
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\bin\Debug\CounterApps1.exe.config
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\bin\Debug\CounterApps1.exe
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\bin\Debug\CounterApps1.pdb
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\bin\Debug\CounterApps1.xml
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.exe
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.xml
+C:\Users\Richard Owen H\source\repos\CounterApps1\CounterApps1\obj\Debug\CounterApps1.pdb
